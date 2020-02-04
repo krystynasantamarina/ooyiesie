@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohpushahv.frenchmanbaycottages.com/sitemap.xml
